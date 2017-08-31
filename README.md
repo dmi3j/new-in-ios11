@@ -8,6 +8,8 @@ Presentation for MDL Meetup \#11 Talk (https://www.facebook.com/events/188362546
 
 **Talk level:** Intro
 
+[![MDL#5 Talk](http://img.youtube.com/vi/irfU0ttXEO4/0.jpg)](https://www.youtube.com/watch?v=irfU0ttXEO4)
+
 ## Agenda
 
 1. XCode (beta 6)
